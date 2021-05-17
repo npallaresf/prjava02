@@ -29,6 +29,7 @@ public class Main {
             System.out.println("Sistema operatiu: " + System.getProperty("os.name"));
             System.out.println("Versio OS: " + System.getProperty("os.version"));
             System.out.println("Creacio? d'una branca del projecte prjava02");
+            System.out.println("Afegint me?s codi a la branca00 del projecte prjava02");
         }
         catch (IOException e) {
 		System.out.println("Exception occurred");
